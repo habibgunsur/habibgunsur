@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @habibgunsur
-- 👀 I’m interested in making something new.
-- 🌱 I’m currently learning web devolopment.
-
-- 📫 How to reach me fb: Habib Gunsur Insta:habibgunsur gmail:sadafgunsur03@gmail.com
-- 😄 Pronouns:he/him
 
 
 <!---
